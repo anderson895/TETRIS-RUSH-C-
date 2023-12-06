@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1598399412 source:e:\ce\besa\codeblocks\tetris\block.cpp
+	"Block.h"
+
+1598399412 e:\ce\besa\codeblocks\tetris\block.h
+
+1701709544 source:e:\ce\besa\codeblocks\tetris\board.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"Common.h"
+	"Board.h"
+
+1598399412 e:\ce\besa\codeblocks\tetris\common.h
+
+1598399412 e:\ce\besa\codeblocks\tetris\board.h
+	"Block.h"
+
+1701709499 source:e:\ce\besa\codeblocks\tetris\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"Common.h"
+	"Board.h"
+
+1598399412 source:e:\ce\besa\codeblocks\tetris\test_split_comma.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
